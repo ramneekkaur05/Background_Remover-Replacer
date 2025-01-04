@@ -7,3 +7,4 @@ Modules used are : Pillow, OpenCV (cv2), rembg
 
 Screenshots :
 ![image alt](https://github.com/ramneekkaur05/Background_Remover-Replacer/blob/c722715e8a6b2b9edaa5abbecdc9875b660eb322/Screenshot%202025-01-04%20021026.png)
+![image alt](https://github.com/ramneekkaur05/Background_Remover-Replacer/blob/a36ded780d63714d6fb9ccff11abca8aee0e6fc9/Screenshot%202025-01-04%20212202.png)
